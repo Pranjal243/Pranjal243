@@ -1,19 +1,17 @@
-[![MasterHead](https://tutsnode.com/wp-content/uploads/2021/04/MERN-Stack-Development-with-React-Redux-Node-2021.jpg](https://Pranjal243.github.io)
+<img src="https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-947663966-e1621956778415.jpg?fit=400%2C203&strip=all" width="100%" height="300px"/>
 <h1 align="center">Hi 👋, I'm Pranjal Dahal</h1>
 <h3 align="center">A passionate developer exploring MERN stack field</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal243&label=Profile%20views&color=0e75b6&style=flat" alt="pranjal243" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjal243" alt="pranjal243" /></a> </p>
+- 📫 Reach me at **dahalpranjal18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pranjal-dahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal-dahal" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pran11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pran_011" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dahalpranjal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dahalpranjal18" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pran_011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="pran_011" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pran_011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pran_011" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@dahalpranjal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dahalpranjal18" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pranjaldahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pranjaldahal" height="30" width="40" /></a>
 </p>
 
@@ -23,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjal243&show_icons=true&locale=en&layout=compact" alt="pranjal243" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjal243&show_icons=true&locale=en" alt="pranjal243" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjal243&" alt="pranjal243" /></p>
