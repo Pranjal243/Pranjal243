@@ -1,6 +1,6 @@
 <img src="https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-947663966-e1621956778415.jpg?fit=400%2C203&strip=all" width="100%" height="300px"/>
 <h1 align="center">Hi 👋, I'm Pranjal Dahal</h1>
-<h3 align="center">Currently working as Release Engineer at Oracle, Hyderabad</h3>
+<h3 align="center">Currently working as SDE 2 at Oracle, Hyderabad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal243&label=Profile%20views&color=0e75b6&style=flat" alt="pranjal243" /> </p>
 
